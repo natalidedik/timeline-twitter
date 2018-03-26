@@ -1,0 +1,21 @@
+{
+  "name": "timeline-twitter",
+  "description": "Twitter timeline by username ",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
