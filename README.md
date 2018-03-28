@@ -22,7 +22,7 @@ The backend server uses express (node server) and the frontend UI uses ReactJs.
 Before use you need react, react-dom, react-scripts, express, body-parser, twitter to be installed with npm i.
 
 Will redirect to http://localhost:5000/.
-To display tweets insert needed username to input and click Submit.
+To display tweets insert username of twitter user to input and click Submit.
 
 ## Demo
 
